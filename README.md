@@ -28,4 +28,4 @@ Use
 
 Please cite
 
-> Tseng, H.-w., & Chen, Y.-p. (2015). Artistic Image Processing with Cellular Automata and Evolutionary Algorithms. In <i>Proceedings of 2015 IEEE Congress on Evolutionary Computation (CEC 2015)</i>.
+> Tseng, H.-w., & Chen, Y.-p. (2015). Artistic Image Processing with Cellular Automata and Evolutionary Algorithms. In <i>Proceedings of 2015 IEEE Congress on Evolutionary Computation (CEC 2015)</i> (pp. 2153–2159). doi: 10.1109/CEC.2015.7257150.
